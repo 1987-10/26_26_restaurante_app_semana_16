@@ -1,0 +1,44 @@
+[
+  {
+    "id_venta": "V-001",
+    "codigo_unico": "VEN-001",
+    "usuario": "Rafael Ayala",
+    "producto": "Hamburguesa Doble",
+    "fecha": "2026-09-24 19:45:48"
+  },
+  {
+    "id_venta": "V-002",
+    "codigo_unico": "VEN-002",
+    "usuario": "Rafaelayala",
+    "producto": "Jugo Natural de Naranja",
+    "fecha": "2026-09-25 12:45:40"
+  },
+  {
+    "id_venta": "V-003",
+    "codigo_unico": "VEN-003",
+    "usuario": "Mariapaz",
+    "producto": "Jugo Natural de Naranja",
+    "fecha": "2026-09-25 13:49:39"
+  },
+  {
+    "id_venta": "V-004",
+    "codigo_unico": "VEN-004",
+    "usuario": "Rafael Ayala",
+    "producto": "salchipapa",
+    "fecha": "2026-10-04 09:17:50"
+  },
+  {
+    "id_venta": "V-005",
+    "codigo_unico": "VEN-005",
+    "usuario": "Rafael Ayala",
+    "producto": "Hamburguesa Doble",
+    "fecha": "2026-10-04 09:18:06"
+  },
+  {
+    "id_venta": "V-006",
+    "codigo_unico": "VEN-006",
+    "usuario": "Rafael Ayala",
+    "producto": "salchipapa",
+    "fecha": "2026-10-04 10:31:10"
+  }
+]

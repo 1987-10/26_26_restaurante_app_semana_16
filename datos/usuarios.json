@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "codigo_unico": "USR-0105396857",
+    "nombre": "Rafael Ayala",
+    "username": "rayala",
+    "correo": "ayalarafael1987@gmail.com",
+    "cedula": "0105396857",
+    "password": "123",
+    "rol": "Administrador"
+  },
+  {
+    "id": 2,
+    "codigo_unico": "USR-0102030405",
+    "nombre": "Maria Paz",
+    "username": "mpaz",
+    "correo": "mpaz@gmail.com",
+    "cedula": "0102030405",
+    "password": "123",
+    "rol": "Empleado"
+  }
+]

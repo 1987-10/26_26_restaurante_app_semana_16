@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "codigo_unico": "PROD-001",
+    "nombre": "Hamburguesa Doble",
+    "precio": 6.5,
+    "categoria": "Platos Fuertes"
+  },
+  {
+    "id": 2,
+    "codigo_unico": "PROD-002",
+    "nombre": "Jugo Natural de Naranja",
+    "precio": 2.0,
+    "categoria": "Bebidas"
+  },
+  {
+    "id": 3,
+    "codigo_unico": "PROD-003",
+    "nombre": "salchipapa",
+    "precio": 3.0,
+    "categoria": "plato fuerte"
+  },
+  {
+    "id": 4,
+    "codigo_unico": "PROD-004",
+    "nombre": "hot dog",
+    "precio": 1.5,
+    "categoria": "plato fuerte"
+  }
+]
